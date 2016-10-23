@@ -1,0 +1,24 @@
+{
+  "name": "homework-11",
+  "version": "1.0.0",
+  "description": "bamazonSQL",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emsaidi/homework-11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emsaidi/homework-11/issues"
+  },
+  "homepage": "https://github.com/emsaidi/homework-11#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1"
+  }
+}
